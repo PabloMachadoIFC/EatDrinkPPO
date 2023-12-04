@@ -1,0 +1,16 @@
+.fLaranja{
+    background-color: #F67B30;
+    height: 100%;
+    color: white;                
+}
+.laranja-text {
+    color: #F67B30;
+}
+.preto-text {
+    color: black;
+    text-decoration: none;
+
+}
+.laranja-hover:hover {
+    color: #F67B30; /* Substitua pela cor desejada */
+}
